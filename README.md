@@ -6,7 +6,7 @@
 
 ---
 
-## Problemas #1
+## Taller 1 C3C
 
 ### 📄 Ejercicios PDF
 [Ver informe completo](DocPDF/taller_1_c3c.pdf) 
@@ -21,3 +21,13 @@
 2. [Ejercicio 2 - Solución](Codigos/problema_6_operaciones_vectoriales.py)
 3. ### Ejercicio 13 - Trabajo en campo de fuerza
 3. [Ejercicio 3 - Solución](Codigos/problema_13_trabajo.py)
+
+
+## Taller 2 C3C
+
+**Estudiante:** Abdeel David Pinzon Mejía  
+**Fecha de entrega:** 19 de agosto 2025 
+
+### 📄 Ejercicios PDF
+[Ver informe completo](DocPDF/c3c_taller_2.pdf) 
+*Contiene el desarrollo del taller*
