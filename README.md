@@ -1,18 +1,17 @@
 # Repositorio de Tareas: Métodos Matemáticos para Físicos I
 
 **Estudiante:** Abdeel David Pinzon Mejía  
-**Fecha de entrega:** 13 de agosto 2025 
 
 
 ---
 
-## Taller 1 C3C
-
+## Taller 1
+**Fecha de entrega:** 13 de agosto 2025 
 ### 📄 Ejercicios PDF
 [Ver informe completo](DocPDF/taller_1_c3c.pdf) 
 *Contiene los desarrollos matemáticos detallados de todos los problemas*
 
-## 🐍 Códigos Python
+## Códigos Python
 
 ### Ejercicio 2 - Centroide de un Triangulo
 
@@ -23,11 +22,25 @@
 3. [Ejercicio 3 - Solución](Codigos/problema_13_trabajo.py)
 
 
-## Taller 2 C3C
-
-**Estudiante:** Abdeel David Pinzon Mejía  
+## Taller 2 
 **Fecha de entrega:** 19 de agosto 2025 
 
 ### 📄 Ejercicios PDF
-[Ver informe completo](DocPDF/c3c_taller_2.pdf) 
-*Contiene el desarrollo del taller*
+[Taller 2](DocPDF/c3c_taller_2.pdf) 
+*Desarrollo del taller*
+
+**UPDATE 26 agosto 2025:** 
+
+[Taller 2 Completo](DocPDF/taller_2_c3c.pdf)
+Reenvio solución completa del taller 2.
+
+## Taller 3 
+**Fecha de entrega:** 26 de agosto 2025 
+
+### 📄 Ejercicios PDF
+[Ver informe completo](DocPDF/taller_3.pdf)
+Envio solución completa del taller.
+
+## Códigos Python
+1. [Ejercicio 1 - Solución](Codigos/ejercicio_uno.py)
+2. [Ejercicio 2 - Solución](Codigos/ejercicio_dos.py)
