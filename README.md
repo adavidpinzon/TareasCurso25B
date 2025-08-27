@@ -31,7 +31,7 @@
 
 **UPDATE 26 agosto 2025:** 
 
-[Taller 2 Completo](DocPDF/taller_2_c3c.pdf)
+[Taller 2 Completo](DocPDF/taller_2.pdf)
 Reenvio solución completa del taller 2.
 
 ## Taller 3 
