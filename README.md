@@ -44,3 +44,28 @@ Envio solución completa del taller.
 ## Códigos Python
 1. [Ejercicio 1 - Solución](Codigos/ejercicio_uno.py)
 2. [Ejercicio 2 - Solución](Codigos/ejercicio_dos.py)
+
+## Taller 3 
+**Fecha de entrega:** 26 de agosto 2025 
+
+### 📄 Ejercicios PDF
+[Ver informe completo](DocPDF/taller_3.pdf)
+Envio solución completa del taller.
+
+## Códigos Python
+1. [Ejercicio 1 - Solución](Codigos/ejercicio_uno.py)
+2. [Ejercicio 2 - Solución](Codigos/ejercicio_dos.py)
+
+## Taller 4
+**Fecha de entrega:** 2 de septiembre 2025 
+
+### 📄 Ejercicios PDF
+PDF [Ver informe completo](DocPDF/taller_4/taller_4.pdf)
+
+
+## Códigos Python
+1. CODIGO [Sympy - Solución](Codigos/taller_4/3_2_4_5.py)
+
+## Graficas
+[Ver graficas comparativas con Python](Codigos/taller_4/graficas/graficoscomparativos.png)
+
